@@ -1,0 +1,31 @@
+bcryptjs for hashing password !
+express-session for sessions !
+connect-mongo for sessions in mongoDB !
+connect-flash for flash errors !
+
+npm install md5 // for hashing email on gravatar
+
+ npm install marked // for markeddown  --> learn from here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+ npm install sanitize-html // for tags hackers
+
+
+ npm install webpack 
+ npm install webpack-cli 
+ npm install @babel/core
+ npm install @babel/preset-env
+npm install babel-loader
+
+
+
+npm install axios
+
+npm install dompurify
+
+
+npm install socket.io // for receiving data 
+
+npm install csurf 
+
+npm install jsonwebtoken // for token on json
+
+npm install cors
