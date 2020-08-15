@@ -29,3 +29,4 @@ npm install csurf
 npm install jsonwebtoken // for token on json
 
 npm install cors
+npm install @sendgrid/mail
